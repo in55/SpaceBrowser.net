@@ -1,0 +1,11 @@
+﻿# 会话沉淀与内部材料，禁止提交
+prompt.md
+context.md
+避坑.md
+提交文件/
+本地材料/
+gen*.py
+
+# 系统文件
+Thumbs.db
+.DS_Store
